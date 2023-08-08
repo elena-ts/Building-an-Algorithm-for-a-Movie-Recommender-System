@@ -1,5 +1,4 @@
-# Building-an-Algorithm-for-a-Movie-Recommender-System
-
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Algorithm+Recommendation+Service)](https://git.io/typing-svg)
 
 Рекомендательные системы - это программные инструменты, которые предлагают пользователям товары, услуги или контент 
 на основе их предпочтений и поведения в прошлом. Они используют алгоритмы машинного обучения для анализа данных о 
